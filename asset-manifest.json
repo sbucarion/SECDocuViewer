@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SECDocuViewer/static/css/main.10a161aa.css",
+    "main.js": "/SECDocuViewer/static/js/main.51d7a59f.js",
+    "static/js/787.cda612ba.chunk.js": "/SECDocuViewer/static/js/787.cda612ba.chunk.js",
+    "index.html": "/SECDocuViewer/index.html",
+    "main.10a161aa.css.map": "/SECDocuViewer/static/css/main.10a161aa.css.map",
+    "main.51d7a59f.js.map": "/SECDocuViewer/static/js/main.51d7a59f.js.map",
+    "787.cda612ba.chunk.js.map": "/SECDocuViewer/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10a161aa.css",
+    "static/js/main.51d7a59f.js"
+  ]
+}
