@@ -1,9 +1,6 @@
 import React from "react";
 import { useEffect, useState } from "react";
 
-import { IconButton, Tooltip } from "@material-ui/core";
-import InfoIcon from "@material-ui/icons/Info";
-
 import axios from "axios";
 
 const filingInfo = {
