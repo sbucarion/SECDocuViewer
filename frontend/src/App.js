@@ -9,7 +9,7 @@ function App() {
     //The respective file that has all webpage info
     <div className="App">
       <h1>hello</h1>
-      <HashRouter basename="/SECDocuViewer">
+      <HashRouter>
         <Routes>
          {/* Home is for landing page of unauth users */}
         <Route path="/" element={<Home/>}/>
