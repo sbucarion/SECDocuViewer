@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/frontend/static/css/main.073c9b0a.css",
-    "main.js": "/frontend/static/js/main.b008766f.js",
-    "static/js/787.28cb0dcd.chunk.js": "/frontend/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/frontend/index.html",
-    "main.073c9b0a.css.map": "/frontend/static/css/main.073c9b0a.css.map",
-    "main.b008766f.js.map": "/frontend/static/js/main.b008766f.js.map",
-    "787.28cb0dcd.chunk.js.map": "/frontend/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/SECDocuViewer/static/css/main.073c9b0a.css",
+    "main.js": "/SECDocuViewer/static/js/main.65b13a37.js",
+    "static/js/787.28cb0dcd.chunk.js": "/SECDocuViewer/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/SECDocuViewer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SECDocuViewer/index.html",
+    "main.073c9b0a.css.map": "/SECDocuViewer/static/css/main.073c9b0a.css.map",
+    "main.65b13a37.js.map": "/SECDocuViewer/static/js/main.65b13a37.js.map",
+    "787.28cb0dcd.chunk.js.map": "/SECDocuViewer/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b008766f.js"
+    "static/js/main.65b13a37.js"
   ]
 }
