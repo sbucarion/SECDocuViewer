@@ -35,6 +35,7 @@ const Home = () => {
 
   return (
     <div className="table-container">
+    <h1> Latest Filings </h1>
     <table className="table">
       <thead>
         <tr>
@@ -55,7 +56,7 @@ const Home = () => {
               <td>{item.tickers}</td>
               <td>{item.time}</td>
               <td>
-                <a href={item.url}>View Full Filing</a>
+                <a href={item.url} target="_blank">View Full Filing</a>
               </td>
             </tr>
           );
