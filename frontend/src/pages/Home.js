@@ -5,8 +5,7 @@ import axios from "axios";
 
 const filingInfo = {
   "4": "News filing provides updates and announcements about the company.",
-  "8-k":
-    "Alert filing indicates important alerts or notifications related to the company.",
+  "8-k":"Alert filing indicates important alerts or notifications related to the company.",
   "Update": "Update filing contains updates and changes related to the company.",
 };
 
