@@ -377,7 +377,7 @@ for filing in filing_rows:
 
     
 max_unix, db_acc_nos = scraping_buffers(conn, cursor) #update new accession oumbers and get time of most recent filing
-time.time() - x
+print(time.time() - x)
 
 conn.close()
 
